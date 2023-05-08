@@ -1,4 +1,5 @@
 # hw3_quick_sort
+
 def quick_sort(arr, start, end):
     #檢查陣列長度，如果為1，則返回陣列
     if start >= end:
